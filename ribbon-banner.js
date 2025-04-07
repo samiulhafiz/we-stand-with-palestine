@@ -55,7 +55,15 @@
       fontSize: "14px",
     });
 
+    ribbonBanner.addEventListener("click", () => {
+      ribbonBanner.remove();
+    });
+
+    ribbonBanner.title = "Tap to remove";
     ribbonBanner.appendChild(text);
+
     document.body.appendChild(ribbonBanner);
+
+    //!TODO:- Auto hide while overlapping content underneath the ribbon banner
   });
 })();
