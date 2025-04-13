@@ -4,7 +4,7 @@ Palestine flag banner to show support from your website.
 
 ### Installation
 ```
-<script src="https://cdn.jsdelivr.net/gh/devkayes/we-stand-with-palestine@main/ribbon-banner.js" async></script>
+<script src="https://cdn.jsdelivr.net/gh/samiulhafiz/we-stand-with-palestine@main/ribbon-banner.js" async></script>
 ```
 
 ### Parameters
@@ -18,7 +18,7 @@ You can customize the banner with additional parameters by setting script attrib
     Default: ```'We stand with Palestine'```
 
 ```
-<script src="https://cdn.jsdelivr.net/gh/devkayes/we-stand-with-palestine@main/ribbon-banner.js" title="We support Palestine" async></script>
+<script src="https://cdn.jsdelivr.net/gh/samiulhafiz/we-stand-with-palestine@main/ribbon-banner.js" title="We support Palestine" async></script>
 ```
 
 ### Preview
